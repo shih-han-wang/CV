@@ -1,4 +1,4 @@
-[Skills](# Skills)|[Education](# Education)|[Experience](# Experience)|[Hobbies and Interests](# Hobbies and Interests)
+[Skills](#Skills)|[Education](#Education)|[Experience](#Experience)|[Hobbies and Interests](#Hobbies-and-Interests)
 ## Shih Han Wang
 
 - Believing coding is just like in the theatre, every story is possible to be told on the stage. It is my ambition to work as a web or apps developer in the creative industries - art events, festivals and institutions-, able to communicate expert knowledge and cultural value across the globe in a way which has a major impact.
