@@ -66,8 +66,11 @@
 
 ## Hobbies and Interests
 
-**Theatre & Arts Events :** I go to theatre, museum and arts event at least once a week!
+**Theatre & Arts Events :**
+*I go to theatre, museum and arts event at least once a week!*
 
-**Flamenco Dance & Spanish Culture :** I've been learning Flamenco Dance for three years and self studying Spanish for half year.
+**Flamenco Dance & Spanish Culture :**
+*I've been learning Flamenco Dance for three years and self studying Spanish for half year.*
 
-**Film Camera Photography :** I like to travel around and explore different cities and culture with my three lovely film cameras.
+**Film Camera Photography :**
+*I like to travel around and explore different cities and culture with my three lovely film cameras.*
