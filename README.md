@@ -1,4 +1,4 @@
-[Skills](## Skills)|[Education](## Education)|[Experience](## Experience)|[Hobbies and Interests](## Hobbies and Interests)
+[Skills](# Skills)|[Education](# Education)|[Experience](# Experience)|[Hobbies and Interests](# Hobbies and Interests)
 ## Shih Han Wang
 
 - Believing coding is just like in the theatre, every story is possible to be told on the stage. It is my ambition to work as a web or apps developer in the creative industries - art events, festivals and institutions-, able to communicate expert knowledge and cultural value across the globe in a way which has a major impact.
@@ -61,11 +61,12 @@
 
 **Skyon Property Management, London** (Sep '16 – Feb '18)    
 *PA*  
+
 **Smart Turnout, London** (Nov '16 – Nov '17)   
 *Sales Assistant & Manager Assistant*  
 
 ## Hobbies and Interests
 
-**Theatre & Arts Events:** I go to theatre, museum and arts event at least once a week!
-**Flamenco Dance & Spanish Culture** I've been learning Flamenco Dance for three years and self studying Spanish for half year.
-**Film Camera Photography** I like to travel around and explore different cities and culture with my three lovely film cameras.
+- **Theatre & Arts Events:** I go to theatre, museum and arts event at least once a week!
+- **Flamenco Dance & Spanish Culture** I've been learning Flamenco Dance for three years and self studying Spanish for half year.
+- **Film Camera Photography** I like to travel around and explore different cities and culture with my three lovely film cameras.
