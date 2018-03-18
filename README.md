@@ -1,4 +1,4 @@
-[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies and Interests](#Hobbies-and-Interests)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
 
 ## Shih Han Wang
 
