@@ -1,11 +1,10 @@
-[Skills](#Skills)|[Education](#Education)|[Experience](#Experience)|[Hobbies and Interests](#Hobbies-and-Interests)
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies and Interests](#Hobbies-and-Interests)
+
 ## Shih Han Wang
 
 - Believing coding is just like in the theatre, every story is possible to be told on the stage. It is my ambition to work as a web or apps developer in the creative industries - art events, festivals and institutions-, able to communicate expert knowledge and cultural value across the globe in a way which has a major impact.
 
-- After working and studying in Theatre and Creative Industries Management for more than 5 years, I wanted to challenge myself to learn a new "tool" in order to merge all my previous knowledge.
-
-- Regarding a "tool", coding is precisely what I needed after all. Thus I decided to learn to code at Makers Academy, a 16-week software development boot camp.
+- After working and studying in Theatre and Creative Industries Management for more than 5 years, I wanted to challenge myself to learn a new "tool" in order to merge all my previous knowledge. Regarding a "tool", coding is precisely what I needed after all. Thus I decided to learn to code at Makers Academy, a 16-week software development boot camp.
 
 ## Skills
 
@@ -67,6 +66,8 @@
 
 ## Hobbies and Interests
 
-- **Theatre & Arts Events:** I go to theatre, museum and arts event at least once a week!
-- **Flamenco Dance & Spanish Culture** I've been learning Flamenco Dance for three years and self studying Spanish for half year.
-- **Film Camera Photography** I like to travel around and explore different cities and culture with my three lovely film cameras.
+**Theatre & Arts Events :** I go to theatre, museum and arts event at least once a week!
+
+**Flamenco Dance & Spanish Culture :** I've been learning Flamenco Dance for three years and self studying Spanish for half year.
+
+**Film Camera Photography :** I like to travel around and explore different cities and culture with my three lovely film cameras.
