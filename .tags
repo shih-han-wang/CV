@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Your Name	/Users/mis/documents/it/makers_academy/cv/README.md	/^## Your Name$/;"	function	line:1
+Skills	/Users/mis/documents/it/makers_academy/cv/README.md	/^## Skills$/;"	function	line:5
+This Skill	/Users/mis/documents/it/makers_academy/cv/README.md	/^#### This Skill$/;"	function	line:7
+Another Skill	/Users/mis/documents/it/makers_academy/cv/README.md	/^#### Another Skill$/;"	function	line:15
+Education	/Users/mis/documents/it/makers_academy/cv/README.md	/^## Education$/;"	function	line:24
+Makers Academy (start_date to end_date)	/Users/mis/documents/it/makers_academy/cv/README.md	/^#### Makers Academy (start_date to end_date)$/;"	function	line:26
+Your University / College (start_date to end_date)	/Users/mis/documents/it/makers_academy/cv/README.md	/^#### Your University \/ College (start_date to end_date)$/;"	function	line:37
+Any other qualifications	/Users/mis/documents/it/makers_academy/cv/README.md	/^#### Any other qualifications$/;"	function	line:43
+Experience	/Users/mis/documents/it/makers_academy/cv/README.md	/^## Experience$/;"	function	line:45
