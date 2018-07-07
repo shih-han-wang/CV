@@ -20,6 +20,7 @@ I couldn't live my life without making new things, so i guess it's fair to say..
 
 |    Project   | Timeframe | Description | Technologies | Testing | Live |
 | ------------ | --------- | ----------------- | ----------------- | ------- | ----- | 
+| [TicTacToe](https://github.com/shihhanwang/tic-tac-toe) | 3 days | A tic-tac-toe website that allows human player to play against another human player or unbeatable AI player. | JavaScript, JQuery, HTML, CSS | Jasmine | n/a |
 | [Drum Machine](https://github.com/mitsukan/drum-machine) | 2 weeks | The Drum Machine by Beat Makers is SPA sound sequencer that imitates drum kits or other percussion instruments. | JavaScript, Howler.js, JQuery, HTML, CSS, Bootsrap, Zeit (Now CLI) | Jasmine | [link](https://drum-machine-fksukfijbx.now.sh/)|
 | [MooBook](https://github.com/shihhanwang/Acebook-Byte-3) | 2 Weeks | Week 8 & 9 of Makers Academy, working in teams to produce a social media platform. | Ruby on Rails, Rails Devise, PostgreSQL, Heroku, HTML, Bootstrap, CSS | RSpec, Capybara, Travis CI | [link](https://serene-forest-46618.herokuapp.com/) |
 | [Instagram Challenge](https://github.com/shihhanwang/Makers_Instagram) | Weekend | Week 8 of Makers Academy. Build Instagram! | Ruby on Rails, Rails Devise, PostgreSQL, HTML, Bootstrap, CSS | RSpec, Capybara | coming soon... |
