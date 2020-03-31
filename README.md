@@ -17,7 +17,7 @@ Passionate about developing software and delivering user friendly app. <br/>
 </p>
 
 ## Experience
-**BOXT Limited** (Aug '18 – Present), Junior Full Stack Developer 
+**BOXT Limited** (Aug '18 – Present), Full Stack Engineer 
 
 - Delivered and maintained high quality, clean, efficient, and scalable code.
 - Extended and improved existing applications end-to-end with new features and requirements.
